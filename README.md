@@ -1,46 +1,69 @@
-# Getting Started with Create React App
+<h1 align="center" style="color:white;" > Delivery Interplanetário </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,ts&theme=dark" />
+  </a>
+</div>
 
-## Available Scripts
+###
 
-In the project directory, you can run:
+<p align="center">Bem-vindo ao nosso serviço de entrega interplanetária! 🌌 Use este formulário elegante com tecnologia React para solicitar sua entrega entre a Terra e Marte. 🌍🚀 </p>
 
-### `npm start`
+###
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 📋 <a name="table">Table of Contents</a>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🤸 [Quick Start](#quick-start)
 
-### `npm test`
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React.js
+- TypeScript
+- Tailwind CSS
 
-### `npm run build`
+## <a name="quick-start">🤸 Quick Start</a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Follow these steps to set up the project locally on your machine.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Prerequisites**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Make sure you have the following installed on your machine:
 
-### `npm run eject`
+- [Git](https://git-scm.com/)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**Installation**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Install the project dependencies using npm:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```bash
+npm install
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```bash
+yarn install
+```
 
-## Learn More
+**Running the Project**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+npm run start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+yarn start
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
+## Autor
+
+<a href="https://github.com/account" align="center" >
+ <img style="border-radius:50%" src="https://avatars.githubusercontent.com/u/84512746?v=4" width="100px;" alt="João Victor Fonseca" />
+ <br />
+ <sub><b>João Victor Fonseca</b></sub></a> <a href="https://github.com/joao-victor-fonseca" title="perfil">🚀
+ </a>
+
+Feito com ❤️ por João Victor Fonseca Assis 👋🏽 Entre em contato!
